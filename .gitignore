@@ -153,10 +153,7 @@ dmypy.json
 # IDE stuff
 .idea/
 
-/cloud_cic/http-client.private.env.json
-/cloud_cic_process_requests/event*.json
-/cloud_cic_collect_results/event*.json
-/cloud_cic_collect_results/collection*.json
+credentials
 /.secrets
 
 *.DS_Store
