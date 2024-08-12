@@ -32,8 +32,6 @@ Run all the cells in the [owo.ipynb](owo.ipynb) notebook.
 
 ## Feedback
 
-### Short Comments
-
 For any issue / bug report / feature request,
 open an [issue](https://github.com/MartinBraquet/owo/issues).
 
