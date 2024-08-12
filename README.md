@@ -30,6 +30,17 @@ than logging in on your machine and run the owo commands.
 
 Run all the cells in the [owo.ipynb](owo.ipynb) notebook.
 
+## Feedback
+
+### Short Comments
+
+For any issue / bug report / feature request,
+open an [issue](https://github.com/MartinBraquet/owo/issues).
+
+## Contributions
+
+To provide upgrades or fixes, open a [pull request](https://github.com/MartinBraquet/owo/pulls).
+
 ## Disclaimer
 
 This script might be violating some Discord or OwO guidelines; running it for too long
