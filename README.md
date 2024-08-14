@@ -60,5 +60,5 @@ To provide upgrades or fixes, open a [pull request](https://github.com/MartinBra
 ## Disclaimer
 
 This script might be violating some Discord or OwO guidelines; running it for too long
-might block your OwO game for 1, 12, or more hours.
+might block your OwO game for 1h, 12h, 36h, or permanently.
 
