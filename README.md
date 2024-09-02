@@ -46,7 +46,7 @@ than logging in on your machine and run the owo commands.
 
 ### Run
 
-Run all the cells in the [owo.ipynb](owo.ipynb) notebook.
+Run [main.py](owo/main.py).
 
 ## Feedback
 
