@@ -46,7 +46,13 @@ than logging in on your machine and run the owo commands.
 
 ### Run
 
-Run [main.py](owo/main.py).
+Run this Python script from anywhere.
+
+```python
+import owo
+
+owo.run()
+```
 
 ## Feedback
 
