@@ -4,6 +4,9 @@
 throttles the number of hunts and battles (one every 15 seconds). This Python script will take care of hunting and battling
 as soon as it is available, without any human intervention. This makes it very cheap to level up animals.
 
+## Demo
+
+![demo_owo.gif](demo/demo_owo.gif)
 
 ## Bot Detection Algorithm
 
