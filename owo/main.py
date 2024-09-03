@@ -55,8 +55,10 @@ def run():
 
         launch_sometimes('owo inv')
         launch_sometimes('owo zoo')
-        launch_sometimes('owo team')
-        launch_sometimes('owo ah')
+        # launch_sometimes('owo team')
+        # launch_sometimes('owo ah')
+        launch_sometimes('owo lb')
+        launch_sometimes('owo crate')
     print(f'Done running {n} commands')
 
 
