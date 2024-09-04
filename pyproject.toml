@@ -4,6 +4,9 @@ requires = [
     "wheel",
 ]
 
+[tool.setuptools]
+packages = ["owo"]
+
 [project]
 name = "owo"
 version = "0.1.0"
